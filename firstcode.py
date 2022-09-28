@@ -1,5 +1,5 @@
 import sys
 import time
 
-print("Hello Akmal")
+print("Good day & hello Akmal")
 
